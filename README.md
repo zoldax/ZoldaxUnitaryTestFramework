@@ -1,6 +1,6 @@
 # 📄 Zoldax Unitary Test Framework
 
-A simple and personal comprehensive test suite for applications, crafted with care by Pascal Weber (zoldax).
+A simple and personal comprehensive test suite for my applications.
 
 ## 📚 Table of Contents
 

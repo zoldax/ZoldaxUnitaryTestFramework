@@ -6,7 +6,7 @@
 # Author:      Pascal Weber (zoldax)
 # Usage:       ./ZoldaxUnitaryTestFramework.sh [-d] [-f script_filename]
 # Options:     -d   Enable debug mode for detailed logs.
-#              -f   Specify the filename of the script to test (default is NHSuite.py).
+#              -f   Specify the filename of the script to test.
 #
 # Copyright 2023 Pascal Weber (zoldax)
 #
@@ -45,7 +45,16 @@ FAILED_TESTS=0
 # Special variables for the script to test
 # ----------------------------------------
 
+# The `TESTS_FOLDER` variable specifies the name of the directory containing
+# the test definition files for scripts that need to be tested. Each script
+# that needs testing is expected to have an associated test definition file
+# named as "TESTS-<SCRIPT_FILENAME>". The test framework will source the
+# corresponding test definition file based on the `SCRIPT_FILENAME` variable
+# to retrieve the list of tests to execute. This organization allows for a
+# modular approach, where tests for different scripts are maintained in separate
+# files within the designated TESTS_FOLDER.
 TESTS_FOLDER="TESTS"
+
 # Name (and path) of the log file where error messages will be written from SCRIPT_FILENAME during test execution.
 # This helps in diagnosing issues that arise during the tests.
 # - To change the log file name: Modify the value to your preferred name.
