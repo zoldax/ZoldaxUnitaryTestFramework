@@ -132,16 +132,16 @@ Unitary testing, as illustrated here, ensures that every isolated part of `basic
 
 By consistently running these tests, we can ensure the reliability of `basicCommands.sh` across different scenarios and make confident decisions during the development phase.
 
-## ⚖️ License
+# ⚖️ License
 
 This framework is licensed under the Apache License, Version 2.0. For details, you can review the license [here](LICENSE).
 
-## 👤 Author
+# 👤 Author
 
 **Pascal Weber (zoldax)**
 
 Contributions are welcome! If you come across any issues or have suggestions, please raise them in the issues section or consider submitting a pull request.
 
-## 📜 Disclaimer:
+# 📜 Disclaimer:
 
 All content is without warranty of any kind. Use at your own risk. I assume no liability for the accuracy, correctness, completeness, usefulness, or any damages.
