@@ -43,7 +43,7 @@ A simple and personal comprehensive test suite for my applications.
 
 **-f** : Specifies the filename of the script to be tested. 
 
-# Sample 
+# 📄 Sample provided 
 
 ## 📜 `basicCommands.sh`
 
