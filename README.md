@@ -141,7 +141,7 @@ This framework is licensed under the Apache License, Version 2.0. For details, y
 
 **Pascal Weber (zoldax)**
 
-Contributions are welcome! If you come across any issues or have suggestions, please raise them in the issues section or consider submitting a pull request.
+Contributions are welcome! If you come across any issues or have suggestions, please raise them in the issues section.
 
 # 📜 Disclaimer:
 
