@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0) [![Commit](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)]
+[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0) [Commit](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)
 # 📄 Zoldax Unitary Test Framework
 
 A simple and personal comprehensive test suite for my applications.
