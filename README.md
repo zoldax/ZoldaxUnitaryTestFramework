@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/zoldax/ZoldaxUnitaryTestFramework)](https://opensource.org/licenses/Apache-2.0) [![Commit](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)[![Hits](https://hits.sh/github.com/zoldax/ZoldaxUnitaryTestFramework.svg)](https://hits.sh/github.com/zoldax/ZoldaxUnitaryTestFramework/)
+[![License](https://img.shields.io/github/license/zoldax/ZoldaxUnitaryTestFramework)](https://opensource.org/licenses/Apache-2.0) [![Commit](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework) [![Views](https://hits.sh/github.com/zoldax/ZoldaxUnitaryTestFramework.svg)](https://hits.sh/github.com/zoldax/ZoldaxUnitaryTestFramework/)
 # 📄 Zoldax Unitary Test Framework
 
 A simple and personal comprehensive test suite for my applications.
