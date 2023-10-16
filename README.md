@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/zoldax/ZoldaxUnitaryTestFramework)](https://opensource.org/licenses/Apache-2.0) [![Commit](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=zoldax.ZoldaxUnitaryTestFramework) 
+[![License](https://img.shields.io/github/license/zoldax/ZoldaxUnitaryTestFramework)](https://opensource.org/licenses/Apache-2.0) [![Commit](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)](https://img.shields.io/github/commit-activity/t/zoldax/ZoldaxUnitaryTestFramework)![](https://komarev.com/ghpvc/?username=zoldax
 # 📄 Zoldax Unitary Test Framework
 
 A simple and personal comprehensive test suite for my applications.
